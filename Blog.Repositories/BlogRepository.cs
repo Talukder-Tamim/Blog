@@ -22,5 +22,10 @@ namespace Blog.Repositories
             _db.BlogPost.Add(blog);
             return _db.SaveChanges() > 0;
         }
+
+        public ICollection<BlogPost> GetAll()
+        {
+            return _db.BlogPost.ToList();
+        }
     }
 }
