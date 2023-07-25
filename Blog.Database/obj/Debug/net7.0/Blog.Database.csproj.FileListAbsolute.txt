@@ -1,0 +1,17 @@
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.csproj.AssemblyReference.cache
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.AssemblyInfoInputs.cache
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.AssemblyInfo.cs
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.csproj.CoreCompileInputs.cache
+E:\TestBlog\Blog.Database\bin\Debug\net7.0\Blog.Database.deps.json
+E:\TestBlog\Blog.Database\bin\Debug\net7.0\Blog.Database.runtimeconfig.json
+E:\TestBlog\Blog.Database\bin\Debug\net7.0\Blog.Database.dll
+E:\TestBlog\Blog.Database\bin\Debug\net7.0\Blog.Database.pdb
+E:\TestBlog\Blog.Database\bin\Debug\net7.0\Blog.Models.dll
+E:\TestBlog\Blog.Database\bin\Debug\net7.0\Blog.Models.pdb
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.csproj.CopyComplete
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.dll
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\refint\Blog.Database.dll
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.pdb
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\Blog.Database.genruntimeconfig.cache
+E:\TestBlog\Blog.Database\obj\Debug\net7.0\ref\Blog.Database.dll

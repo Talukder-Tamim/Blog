@@ -1,0 +1,12 @@
+E:\TestBlog\Blog.Models\bin\Debug\net7.0\Blog.Models.deps.json
+E:\TestBlog\Blog.Models\bin\Debug\net7.0\Blog.Models.dll
+E:\TestBlog\Blog.Models\bin\Debug\net7.0\Blog.Models.pdb
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\Blog.Models.csproj.AssemblyReference.cache
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\Blog.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\Blog.Models.AssemblyInfoInputs.cache
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\Blog.Models.AssemblyInfo.cs
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\Blog.Models.csproj.CoreCompileInputs.cache
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\Blog.Models.dll
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\refint\Blog.Models.dll
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\Blog.Models.pdb
+E:\TestBlog\Blog.Models\obj\Debug\net7.0\ref\Blog.Models.dll

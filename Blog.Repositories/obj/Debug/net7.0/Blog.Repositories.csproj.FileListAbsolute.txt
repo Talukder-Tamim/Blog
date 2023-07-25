@@ -1,0 +1,17 @@
+E:\TestBlog\Blog.Repositories\bin\Debug\net7.0\Blog.Repositories.deps.json
+E:\TestBlog\Blog.Repositories\bin\Debug\net7.0\Blog.Repositories.dll
+E:\TestBlog\Blog.Repositories\bin\Debug\net7.0\Blog.Repositories.pdb
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\Blog.Repositories.csproj.AssemblyReference.cache
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\Blog.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\Blog.Repositories.AssemblyInfoInputs.cache
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\Blog.Repositories.AssemblyInfo.cs
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\Blog.Repositories.csproj.CoreCompileInputs.cache
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\Blog.Repositories.dll
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\refint\Blog.Repositories.dll
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\Blog.Repositories.pdb
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\ref\Blog.Repositories.dll
+E:\TestBlog\Blog.Repositories\bin\Debug\net7.0\Blog.Database.dll
+E:\TestBlog\Blog.Repositories\bin\Debug\net7.0\Blog.Models.dll
+E:\TestBlog\Blog.Repositories\bin\Debug\net7.0\Blog.Database.pdb
+E:\TestBlog\Blog.Repositories\bin\Debug\net7.0\Blog.Models.pdb
+E:\TestBlog\Blog.Repositories\obj\Debug\net7.0\Blog.Repositories.csproj.CopyComplete
